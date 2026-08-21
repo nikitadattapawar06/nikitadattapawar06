@@ -17,15 +17,6 @@
 
 ---
 
-### 🌐 Connect with me
-<p align="left">
-<!-- Replace the # below with your real profile links -->
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35" height="35"/></a>
-<a href="mailto:#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="email" width="35" height="35"/></a>
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -61,11 +52,3 @@
 <p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=nikitadattapawar06&theme=flat&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </p>
-
----
-
-### 📌 Pinned / Featured Projects
-<!-- Add 2-4 of your best repos here, e.g.: -->
-<!--
-- [**Project Name**](https://github.com/nikitadattapawar06/repo) — one-line description of what it does and the stack used.
--->
