@@ -48,7 +48,3 @@
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitadattapawar06&" alt="nikitadattapawar06 streak" />
 </p>
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=nikitadattapawar06&theme=flat&column=7&margin-w=10&margin-h=10" alt="trophies" />
-</p>
